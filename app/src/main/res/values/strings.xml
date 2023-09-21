@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="hello_message">Hello World</string>
+    <string name="earth">Image of a small simple earth and stars doodle</string>
+</resources>
